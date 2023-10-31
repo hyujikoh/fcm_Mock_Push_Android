@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "30360180470",
+    "project_id": "brainycards",
+    "storage_bucket": "brainycards.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30360180470:android:e794ccf0df7b6a916ebed7",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "30360180470-p6finpt4j50i87skhkvjv6b2g7cv52fp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1RO0tRovaVDcTwuEr89a9EMCGEb5oLl0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "30360180470-p6finpt4j50i87skhkvjv6b2g7cv52fp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
